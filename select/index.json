@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "The Girls Are Alright!",
+  "base_artist": "saya",
+  "createdAt": "2026-01-09T08:23:01.986404Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Girls Are Alright!",
+      "artist": "saya",
+      "has_synced": true,
+      "path": "select/01_The_Girls_Are_Alright!_saya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "the girls are alright",
+      "artist": "saya",
+      "has_synced": true,
+      "path": "select/02_the_girls_are_alright_saya.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Girls Are Alright!",
+      "artist": "saya",
+      "has_synced": true,
+      "path": "select/03_The_Girls_Are_Alright!_saya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Girls Are Alright!",
+      "artist": "38番/saya",
+      "has_synced": true,
+      "path": "select/04_The_Girls_Are_Alright!_38番_saya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Girls Are Alright!",
+      "artist": "彩Saya",
+      "has_synced": true,
+      "path": "select/05_The_Girls_Are_Alright!_彩Saya.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Girls Are Alright! (OP)",
+      "artist": "Soyoco",
+      "has_synced": false,
+      "path": "select/06_The_Girls_Are_Alright!_(OP)_Soyoco.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Girls Are Alright!",
+      "artist": "saya",
+      "has_synced": false,
+      "path": "select/pl_01_The_Girls_Are_Alright!_saya.txt"
+    }
+  ]
+}
